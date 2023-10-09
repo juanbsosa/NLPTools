@@ -43,3 +43,5 @@
 *.jpg
 *.dump
 *.sld
+
+!example_file.csv
